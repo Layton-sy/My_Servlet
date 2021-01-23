@@ -1,4 +1,4 @@
-package com.hjj.servletProject.servlet;
+package com.hjj.servletProject.servlet.jsp;
 
 import com.hjj.servletProject.entity.Admin;
 
